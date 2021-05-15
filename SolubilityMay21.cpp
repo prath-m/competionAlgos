@@ -33,6 +33,7 @@ class Codechef
 }
 
 /*
+y=yes
 Inputs:
 X - Temperature
 A - Solutbility
